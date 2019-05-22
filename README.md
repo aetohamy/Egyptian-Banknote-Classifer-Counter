@@ -7,3 +7,5 @@ This project aims at identifying and counting currencies given in EGP, given a d
 - [x] Detect banknote in slightly rotated input images.
 - [x] Detect banknotes that suffers from different types of noise.
 - [x] Detect some banknotes that are intersecting
+
+Project of Image Processing Course fully implemented in MATLAB using Image Processing Toolbox.
